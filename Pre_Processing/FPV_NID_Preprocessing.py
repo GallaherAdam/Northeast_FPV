@@ -1,3 +1,7 @@
+### National Inventory of Dams data cleaning and geographic subsetting
+### Adam Gallaher, Ph.D.
+### Cornell University
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
